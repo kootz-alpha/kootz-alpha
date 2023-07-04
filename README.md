@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Abhishek Haridasan
 - LinkedIn - https://www.linkedin.com/in/abhishek-haridasan-2aba501b7/
+- HackerRank - https://www.hackerrank.com/kootz_alpha
+- LeetCode - https://leetcode.com/abhishekharidasan/
 - Thank you for coming by!
 
 <!---
